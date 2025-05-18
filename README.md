@@ -127,16 +127,6 @@
 
 ---
 
-## How to Use
-1. **Clone the Repository:**
-   ```sh
-   git clone <repository_url>
-   ```
-2. **Open in Cisco Packet Tracer/GNS3:** Load the network topology.
-3. **Execute Configuration Commands:** Use CLI to configure devices.
-4. **Test Connectivity:** Verify network functionality using ping and traceroute.
 
 ---
 
-## Contact
-For any inquiries, please contact [MOAZ ELMAHI] at [mstfyrb477@gmail.com].
